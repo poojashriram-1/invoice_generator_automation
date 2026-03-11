@@ -50,7 +50,7 @@ invoice_generator_automation
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/invoice_generator_automation.git
+git clone https://github.com/poojashriram-1/invoice_generator_automation.git
 ```
 
 Navigate to the project folder
