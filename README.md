@@ -101,6 +101,14 @@ Generated invoices will be stored in:
 invoices/
 ```
 
+
+Screenshots
+
+![Output Screenshot](invoice_screenshot.PNG)
+![Output Screenshot](logs.PNG)
+
+
+
 ---
 
 ## Sample Invoice
