@@ -111,10 +111,6 @@ Screenshots
 
 ---
 
-## Sample Invoice
-
-![Invoice Screenshot](screenshots/Capture.PNG)
-
 ---
 
 ## Use Cases
